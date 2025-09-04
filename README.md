@@ -23,3 +23,4 @@ The objective of this assignment is to:
 
 ##  Output  
 Here is the output of the logo drawn using OpenCV:
+![Description of Image](output_opencv.png)
