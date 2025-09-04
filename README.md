@@ -3,10 +3,15 @@
 
 ---
 
-## Group Members  
-- Member 1 – [GitHub Profile](https://github.com/username)  
-- Member 2 – [GitHub Profile](https://github.com/username)  
-- Member 3 – [GitHub Profile](https://github.com/username)  
+##  Group Members  
+- Member 1 – Obaid Alkaabi
+- Member 2 – Mohammed Alnuaimi
+- Member 3 – Hamad Alshamsi
+
+---
+
+##  Instructor  
+- Dr. [Instructor Name]  
 
 ---
 
